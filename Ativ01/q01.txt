@@ -1,0 +1,2 @@
+a) A finalidade prática do uso de notação lambda e compreensão de listas seria utilizar de 
+abstrações matemáticas na programação e facilitar a manipulação de listas, respectivamente.
